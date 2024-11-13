@@ -7,6 +7,7 @@ This study focuses on predicting air quality in Cameroon, specifically the conce
 ## Leaderboard Achievement
 
 Here’s a snapshot of my position on the leaderboard during the **Cameroon Air Quality Prediction** competition:
+![Leaderboard](images/leaderboard.png)
 
 ## Methodology
 
