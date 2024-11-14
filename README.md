@@ -15,9 +15,9 @@ The analysis began with an exploration of the dataset, where **data inconsistenc
 
 ### Feature Engineering
 
-To enhance predictive power, we analyzed the distribution of **PM2.5** concentrations across different cities. This led to the creation of a new feature:  
-- **Distance of each city from Bafoussam** (the city with the highest PM2.5 levels).
-
+Enhancing predictive power involved analyzing the distribution of **PM2.5** concentrations across different cities, leading to the creation of a new feature:
+- **Distance from Bafoussam**, the city with the highest PM2.5 levels.
+  
 ## Models
 
 Several machine learning models were initially employed to predict **PM2.5** levels, including:
